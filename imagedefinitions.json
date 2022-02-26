@@ -1,0 +1,6 @@
+[
+  {
+    "name": "nodeappstag",
+    "imageUri": "public.ecr.aws/n9l3w5u1/node-app:latest"
+  }
+]
