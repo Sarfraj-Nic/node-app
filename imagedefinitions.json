@@ -1,5 +1,4 @@
-[
-  {
-    "name": "sar-nodeapp-cont",
-    "imageUri": "096496349757.dkr.ecr.us-east-1.amazonaws.com/demo-repo:latest"
-  }
+[{
+	"name": "sar-nodeapp-cont",
+	"imageUri": "096496349757.dkr.ecr.us-east-1.amazonaws.com/demo-repo:latest"
+}]
